@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Amazon Payment Services is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://paymentservices.amazon.com/
+Amazon Payment Services provides payment processing solutions that enable merchants to accept online payments across multiple channels, including credit cards, debit cards, and alternative payment methods. Leveraging Amazon’s global infrastructure, the service offers secure, scalable, and compliant transaction handling, fraud detection, and settlement capabilities for businesses of all sizes. It integrates with e‑commerce platforms, mobile apps, and point‑of‑sale systems, delivering a seamless checkout experience while adhering to PCI DSS standards and regional regulatory requirements.
+
+**Areas:** Company · Payments · FinTech · API · E-commerce · PaymentsGateway
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://paymentservices.amazon.com/)
+- [Documentation](https://paymentservices.amazon.com/docs/)
+- [API reference](https://paymentservices.amazon.com/docs/api)
+- [Pricing](https://paymentservices.amazon.com/pricing)
+- [Blog](https://paymentservices.amazon.com/blog)
+- [Security](https://hackerone.com/amazonvrp)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/amazon-payment-services/](https://apis.io/providers/amazon-payment-services/).
